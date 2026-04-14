@@ -1,6 +1,10 @@
-# Course Registration System
+# [Course Registration System](https://github.com/vermont849-gif/course-management-system)
 
 A complete course enrollment system where students can register, log in, and manage their course registrations.
+
+🔗 **Live Repository:** https://github.com/vermont849-gif/course-management-system
+
+---
 
 ## Live Demo of Features
 
@@ -13,7 +17,10 @@ A complete course enrollment system where students can register, log in, and man
 | 📋 My Courses | Shows only enrolled courses for logged-in user |
 | ❌ Drop Course | Remove a course from enrollment |
 
+---
+
 ## How It Works
+
 Student registers → saved in 'users' table
 
 Student logs in → session created
